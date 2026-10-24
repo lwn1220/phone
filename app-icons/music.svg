@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <defs><linearGradient id="music" x2="0" y2="1"><stop stop-color="#ff638f"/><stop offset=".5" stop-color="#fa315f"/><stop offset="1" stop-color="#c70c48"/></linearGradient><linearGradient id="note" x2="0" y2="1"><stop stop-color="#fff"/><stop offset="1" stop-color="#ffe8ef"/></linearGradient></defs>
+  <rect width="1024" height="1024" rx="226" fill="url(#music)"/>
+  <path d="M624 197v442c0 99-74 180-169 180-83 0-149-54-149-124 0-71 66-128 149-128 29 0 56 7 78 20V292l272-66v346c0 99-75 180-169 180-83 0-150-55-150-125s67-127 150-127c29 0 56 7 78 20V312l-90 22V197Z" fill="url(#note)"/>
+</svg>

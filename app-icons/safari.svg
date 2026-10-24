@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <defs><linearGradient id="white" x2="0" y2="1"><stop stop-color="#fff"/><stop offset="1" stop-color="#edf2f7"/></linearGradient><linearGradient id="compass" x2="0" y2="1"><stop stop-color="#65d4ff"/><stop offset=".55" stop-color="#1493ed"/><stop offset="1" stop-color="#0864cb"/></linearGradient></defs>
+  <rect width="1024" height="1024" rx="226" fill="url(#white)"/>
+  <circle cx="512" cy="512" r="360" fill="#f8fbff" stroke="#d2d9e0" stroke-width="16"/>
+  <g stroke="#647689" stroke-width="17" stroke-linecap="round"><path d="M512 180v34M512 810v34M180 512h34M810 512h34"/><path d="m277 277 24 24m422 422 24 24M747 277l-24 24M301 723l-24 24" stroke-width="11"/></g>
+  <circle cx="512" cy="512" r="288" fill="url(#compass)" stroke="#fff" stroke-width="17"/>
+  <path d="m624 376-80 220-144 52 80-220 144-52Z" fill="#fff"/><path d="m624 376-80 220-144 52 80-220 144-52Z" fill="#ff453a" clip-path="url(#north)"/>
+  <defs><clipPath id="north"><path d="M624 376 480 428 544 596Z"/></clipPath></defs>
+  <circle cx="512" cy="512" r="23" fill="#fff" stroke="#0a84ff" stroke-width="9"/>
+</svg>

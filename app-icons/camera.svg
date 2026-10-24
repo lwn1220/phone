@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <defs>
+    <linearGradient id="bg" x2="0" y2="1"><stop stop-color="#f6f7f8"/><stop offset=".5" stop-color="#c7cbd0"/><stop offset="1" stop-color="#858b93"/></linearGradient>
+    <linearGradient id="body" x2="0" y2="1"><stop stop-color="#fafafa"/><stop offset=".16" stop-color="#cbd0d5"/><stop offset=".52" stop-color="#aab0b7"/><stop offset="1" stop-color="#eceef0"/></linearGradient>
+    <radialGradient id="glass" cx=".34" cy=".27"><stop stop-color="#d7f6ff"/><stop offset=".17" stop-color="#668caa"/><stop offset=".38" stop-color="#172633"/><stop offset=".64" stop-color="#728c9d"/><stop offset=".78" stop-color="#111820"/><stop offset="1" stop-color="#555d66"/></radialGradient>
+    <linearGradient id="shine" x2="0" y2="1"><stop stop-color="#fff" stop-opacity=".7"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  </defs>
+  <rect width="1024" height="1024" rx="226" fill="url(#bg)"/>
+  <rect x="133" y="327" width="758" height="414" rx="74" fill="#747b83" opacity=".38"/>
+  <path d="M205 345h155l53-82h219l56 82h131a61 61 0 0 1 61 61v263a61 61 0 0 1-61 61H205a61 61 0 0 1-61-61V406a61 61 0 0 1 61-61Z" fill="url(#body)" stroke="#fff" stroke-opacity=".75" stroke-width="12"/>
+  <path d="M205 357h150l55-77h207l56 77h144" fill="none" stroke="url(#shine)" stroke-width="18" stroke-linecap="round"/>
+  <rect x="229" y="389" width="101" height="49" rx="20" fill="#8a9198"/>
+  <circle cx="512" cy="533" r="183" fill="#727983" stroke="#f4f5f6" stroke-width="20"/>
+  <circle cx="512" cy="533" r="148" fill="#202a34" stroke="#c5cbd0" stroke-width="13"/>
+  <circle cx="512" cy="533" r="118" fill="url(#glass)" stroke="#68727b" stroke-width="7"/>
+  <ellipse cx="468" cy="485" rx="31" ry="16" transform="rotate(-35 468 485)" fill="#e8fbff" opacity=".62"/>
+  <circle cx="661" cy="424" r="25" fill="#ffdd9b" stroke="#fafafa" stroke-width="10"/><circle cx="661" cy="424" r="11" fill="#fff5d4"/>
+</svg>
